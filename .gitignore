@@ -129,6 +129,10 @@ dist
 .pnp.*
 .yarn/*
 !.yarn/patches
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6374dcdfbea74f0e48b8fb7e5591cef60eab8727
 !.yarn/plugins
 !.yarn/releases
 !.yarn/sdks
@@ -136,4 +140,14 @@ dist
 
 # Vite logs files
 vite.config.js.timestamp-*
+<<<<<<< HEAD
 vite.config.ts.timestamp-*
+=======
+vite.config.ts.timestamp-*
+
+# Local data + uploads
+data/*.json
+uploads/
+
+
+>>>>>>> 6374dcdfbea74f0e48b8fb7e5591cef60eab8727
