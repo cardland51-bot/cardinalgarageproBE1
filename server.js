@@ -5,14 +5,22 @@ import dotenv from "dotenv";
 import OpenAI from "openai";
 import fs from "fs";
 import path from "path";
+import multer from "multer";
 import { fileURLToPath } from "url";
 import fetch from "node-fetch";
-import multer from "multer";
 
 dotenv.config();
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const app = express();
+const PORT = process.env.PORT || 10000;
+
+app.use(cors());
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+// ===== MULTER SETUP =====
+const upload = multer({ dest: "uploads/" });
+
 
 // ===== CORE APP =====
 const app = express();
