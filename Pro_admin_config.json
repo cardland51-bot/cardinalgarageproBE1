@@ -1,0 +1,1 @@
+{"apiBase":"","port":"","healthPath":"/healthz","openaiKey":"","projectId":"","systemPrompt":"","tone":3,"temperature":0.4,"topP":0.9,"banned":"","lexicon":"","voiceId":"alloy","voiceRate":1,"voicePitch":0,"voiceText":"","dataset":"","ingestPath":"/ingest","ingestMode":"upsert","streamFull":true,"snippets":[]}

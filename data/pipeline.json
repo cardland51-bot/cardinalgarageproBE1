@@ -1,0 +1,175 @@
+[
+  {
+    "t": 1762496554437,
+    "event": "page_load",
+    "payload": {
+      "page": "pro_calculator"
+    },
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762496558130,
+    "event": "photo_selected",
+    "payload": {
+      "name": "OIP.webp",
+      "size": 31784
+    },
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762496559447,
+    "event": "inference_result",
+    "payload": {
+      "source": "analyze_click",
+      "raw": {
+        "price": 120,
+        "upsell": "+48",
+        "summary": "Estimate: ~$120. Keep it simple; lead with reliability. Looks clean for one-visit or recurring setup.",
+        "closePct": 72,
+        "upsellPct": 40,
+        "riskPct": 18
+      },
+      "mapped": {
+        "price": 120,
+        "upsellText": "+48",
+        "closePct": 72,
+        "upsellPct": 40,
+        "riskPct": 18
+      }
+    },
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762497433797,
+    "event": "page_load",
+    "payload": {
+      "page": "pro_calculator"
+    },
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762497440156,
+    "event": "photo_selected",
+    "payload": {
+      "name": "565622760_1147021130902755_1213883419000899548_n.jpg",
+      "size": 163935
+    },
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762497442102,
+    "event": "inference_result",
+    "payload": {
+      "source": "analyze_click",
+      "raw": {
+        "price": 120,
+        "upsell": "+48",
+        "summary": "Estimate: ~$120. Keep it simple; lead with reliability. Looks clean for one-visit or recurring setup.",
+        "closePct": 72,
+        "upsellPct": 40,
+        "riskPct": 18
+      },
+      "mapped": {
+        "price": 120,
+        "upsellText": "+48",
+        "closePct": 72,
+        "upsellPct": 40,
+        "riskPct": 18
+      }
+    },
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762497458547,
+    "event": "inference_result",
+    "payload": {
+      "source": "analyze_click",
+      "raw": {
+        "price": 120,
+        "upsell": "+48",
+        "summary": "Estimate: ~$120. Keep it simple; lead with reliability. Looks clean for one-visit or recurring setup.",
+        "closePct": 72,
+        "upsellPct": 40,
+        "riskPct": 18
+      },
+      "mapped": {
+        "price": 120,
+        "upsellText": "+48",
+        "closePct": 72,
+        "upsellPct": 40,
+        "riskPct": 18
+      }
+    },
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762497462917,
+    "event": "inference_result",
+    "payload": {
+      "source": "analyze_click",
+      "raw": {
+        "price": 120,
+        "upsell": "+48",
+        "summary": "Estimate: ~$120. Keep it simple; lead with reliability. Looks clean for one-visit or recurring setup.",
+        "closePct": 72,
+        "upsellPct": 40,
+        "riskPct": 18
+      },
+      "mapped": {
+        "price": 120,
+        "upsellText": "+48",
+        "closePct": 72,
+        "upsellPct": 40,
+        "riskPct": 18
+      }
+    },
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762497463855,
+    "event": "inference_result",
+    "payload": {
+      "source": "analyze_click",
+      "raw": {
+        "price": 120,
+        "upsell": "+48",
+        "summary": "Estimate: ~$120. Keep it simple; lead with reliability. Looks clean for one-visit or recurring setup.",
+        "closePct": 72,
+        "upsellPct": 40,
+        "riskPct": 18
+      },
+      "mapped": {
+        "price": 120,
+        "upsellText": "+48",
+        "closePct": 72,
+        "upsellPct": 40,
+        "riskPct": 18
+      }
+    },
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762497472512,
+    "event": "contact_click",
+    "payload": {},
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762497475968,
+    "event": "garage_open",
+    "payload": {},
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762497482192,
+    "event": "garage_open",
+    "payload": {},
+    "source": "pro_calculator_frontend"
+  },
+  {
+    "t": 1762497482632,
+    "event": "garage_open",
+    "payload": {},
+    "source": "pro_calculator_frontend"
+  }
+]
